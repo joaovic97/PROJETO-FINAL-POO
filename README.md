@@ -1,2 +1,4 @@
 # PROJETO FINAL POOO
  Projeto final da disciplina de Programação Orientada a Objetos ministrada pela professora Gabriela Nunes Lopes.
+
+ O objetivo desse trabalho é apresentar o design e a implementação de um jogo com interface de texto (TUI) utilizando a biblioteca “curses”. O objetivo principal deste projeto é criar uma experiência interativa envolvente utilizando gráficos ASCII, demonstrando as capacidades de interfaces baseadas em caracteres no desenvolvimento de jogos. O jogo apresenta um mapa simples e finito, um sistema de inventário e várias ações do jogador, incluindo plantar sementes, cortar árvores, construir casas, colher plantações e consumir alimentos. A eficácia da biblioteca curses em fornecer uma experiência de jogo dinâmica e responsiva é avaliada. Os resultados preliminares mostram que os jogos baseados em texto podem oferecer valor de entretenimento significativo e benefícios educacionais em programação e pensamento algorítmico.
